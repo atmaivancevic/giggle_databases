@@ -253,3 +253,10 @@ time giggle search -i indexed -q test.bed.gz -s > output_test.gigglestats
 # real	0m40.316s
 # user	0m33.363s
 # sys	0m5.152s
+
+################################################################################
+# Then do the same for Mouse (mm10)
+
+# Mouse_Factor: R9MXVUTB72SQ8FJLMWXU.tar.gz, 9060 files total, took __ minutes to index. 
+# Mouse_Histone: DPOUA6WA6SNLMRHVC7GW.tar.gz, 10944 files total, took __ minutes to index.
+# Mouse_Chromatin_Accessibility: FGRVH30PLYTNOQPXMCUL.tar.gz, 2358 files total, took __ minutes to index.
