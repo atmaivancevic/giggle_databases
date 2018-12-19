@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # download cistrome data from http://cistrome.org/db/#/bdown
 # enter in Name, Lab PI, Institute, Email
 # choose Human_Factor (or whichever one you're interested in)
