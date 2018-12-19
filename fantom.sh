@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Can't get the website?!?1?!
+# Can't get to the website?!?1?!
 
 
 # FANTOM: unavailable due to security issues
