@@ -157,7 +157,7 @@ rm -r filtered_q100
 
 # Mouse_Factor: R9MXVUTB72SQ8FJLMWXU.tar.gz, 9060 files total, 8801 files after filtering (q>100)
 
-# Mouse_Histone: DPOUA6WA6SNLMRHVC7GW.tar.gz, 10944 files total, ___ files after filtering (q>100)
+# Mouse_Histone: DPOUA6WA6SNLMRHVC7GW.tar.gz, 10944 files total, 9706 files after filtering (q>100)
 
 # Mouse_Chromatin_Accessibility: FGRVH30PLYTNOQPXMCUL.tar.gz, 2358 files total, 2200 files after filtering (q>100)
 
