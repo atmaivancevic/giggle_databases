@@ -44,4 +44,4 @@ rm -r eachRep
 # respectively, these are in indexed_LINE/, indexed_SINE/, indexed_LTR/, and indexed_DNA/
 # and the bed files are in sorted_LINE/, sorted_SINE/, sorted_LTR/, and sorted_DNA/
 
-# for more info about different repeat families, see /Users/CL_Shared/db/giggle/hg38/repeats/groups/repeat_families.txt
+# for more info about different repeat families, see /Users/CL_Shared/db/giggle/hg38/repeats/groups/repeat_families.info
