@@ -151,7 +151,7 @@ rm -r filtered_q100
 
 # Then want to do the same for the other cistrome databases
 
-# Human_Histone: GTYPP2KEMBOVQL3DDGS2.tar.gz, 11079 files total, ___ files after filtering (q>100)
+# Human_Histone: GTYPP2KEMBOVQL3DDGS2.tar.gz, 11079 files total, 8721 files after filtering (q>100)
 
 # Human_Chromatin_Accessibility: R56Q7GGRZEY7L4PH4RA9.tar.gz, 2412 files total, ___ files after filtering (q>100)
 
