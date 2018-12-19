@@ -145,6 +145,7 @@ rm -r filtered_q100
 
 # Note: for now, going to keep sorted/ and sorted_q100/, for easy look-up inside the bed files that contain peaks
 # Also keep raw/ (which contains the downloaded .tar.gz) and split/ (which contains a record of the original names versus new names)
+# Altogether this dir takes up ~ 31gb
 
 ################################################################################
 
