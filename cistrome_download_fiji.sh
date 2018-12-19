@@ -155,7 +155,7 @@ rm -r filtered_q100
 
 # Human_Chromatin_Accessibility: R56Q7GGRZEY7L4PH4RA9.tar.gz, 2412 files total, 2055 files after filtering (q>100)
 
-# Mouse_Factor: R9MXVUTB72SQ8FJLMWXU.tar.gz, 9060 files total, ___ files after filtering (q>100)
+# Mouse_Factor: R9MXVUTB72SQ8FJLMWXU.tar.gz, 9060 files total, 8801 files after filtering (q>100)
 
 # Mouse_Histone: DPOUA6WA6SNLMRHVC7GW.tar.gz, 10944 files total, ___ files after filtering (q>100)
 
