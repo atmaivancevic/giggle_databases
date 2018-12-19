@@ -139,6 +139,13 @@ time giggle index -i "sorted_q100/*gz" -o indexed_q100 -f -s
 
 # So indexed/ is the unflitered set of all peaks, and indexed_q100/ contains only peaks with q>100
 
+# Remove unnecessary dirs
+rm -r renamed
+rm -r filtered_q100
+
+# Note: for now, going to keep sorted/ and sorted_q100/, for easy look-up inside the bed files that contain peaks
+# Also keep raw/ (which contains the downloaded .tar.gz) and split/ (which contains a record of the original names versus new names)
+
 ################################################################################
 
 # Then want to do the same for the other cistrome databases
