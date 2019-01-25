@@ -11,7 +11,7 @@
 # In Epigenetic Marks, select: H3K27ac (401)
 # Then at the top left, click 'Select all experiments displayed in the Grid'
 # These 401 entries should now appear at the bottom. Click 'Proceed to the download page'
-# Leave Download Options as default
+# In the Download Options, got to Metadata, and from the dropdown menu add: Name, Epigenetic_Mark, Biosource, Sample_ID
 # At the bottom, click 'Request Download'
-# request id r3488281 (https://deepblue.mpi-inf.mpg.de/request.php?_id=r3488281) 
-# now we wait.....
+# request id r3488283 (https://deepblue.mpi-inf.mpg.de/request.php?_id=r3488283) 
+# now we wait..... (usually only takes a few min)
