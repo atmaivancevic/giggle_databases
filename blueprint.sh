@@ -77,10 +77,10 @@ find sorted/ -name "*.gz" | wc -l
 # now giggle index
 time giggle index -i "sorted/*gz" -o indexed -f -s 
 
-# Indexed - intervals.
-# real	-
-# user	-
-# sys	-
+# Indexed 27564509 intervals.
+# real	6m8.256s
+# user	1m3.763s
+# sys	0m21.116s
 
 # remove unnecessary dirs
 rm -r renamed/
